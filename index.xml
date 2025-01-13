@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HABBB206C287D4C3BB2917819C0489B59" public-private="public">
+	<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>111th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3590</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20090917">September 17, 2009</action-date>
+			<action-desc><sponsor name-id="R000053">Mr. Rangel</sponsor> (for
+			 himself, <cosponsor name-id="S000465">Mr. Skelton</cosponsor>,
+			 <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>,
+			 <cosponsor name-id="K000188">Mr. Kind</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="K000365">Mr.
+			 Kagen</cosponsor>, <cosponsor name-id="S000810">Mr. Stark</cosponsor>,
+			 <cosponsor name-id="L000263">Mr. Levin</cosponsor>,
+			 <cosponsor name-id="M000404">Mr. McDermott</cosponsor>,
+			 <cosponsor name-id="L000287">Mr. Lewis of Georgia</cosponsor>,
+			 <cosponsor name-id="N000015">Mr. Neal of Massachusetts</cosponsor>,
+			 <cosponsor name-id="T000038">Mr. Tanner</cosponsor>,
+			 <cosponsor name-id="B000287">Mr. Becerra</cosponsor>,
+			 <cosponsor name-id="D000399">Mr. Doggett</cosponsor>,
+			 <cosponsor name-id="P000422">Mr. Pomeroy</cosponsor>,
+			 <cosponsor name-id="T000460">Mr. Thompson of California</cosponsor>,
+			 <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>,
+			 <cosponsor name-id="P000096">Mr. Pascrell</cosponsor>,
+			 <cosponsor name-id="B001231">Ms. Berkley</cosponsor>,
+			 <cosponsor name-id="C001038">Mr. Crowley</cosponsor>,
+			 <cosponsor name-id="M001148">Mr. Meek of Florida</cosponsor>,
+			 <cosponsor name-id="V000128">Mr. Van Hollen</cosponsor>,
+			 <cosponsor name-id="S001162">Ms. Schwartz</cosponsor>,
+			 <cosponsor name-id="D000602">Mr. Davis of Alabama</cosponsor>,
+			 <cosponsor name-id="D000096">Mr. Davis of Illinois</cosponsor>,
+			 <cosponsor name-id="E000226">Mr. Etheridge</cosponsor>,
+			 <cosponsor name-id="S001156">Ms. Linda T. Sánchez of California</cosponsor>,
+			 <cosponsor name-id="H001038">Mr. Higgins</cosponsor>,
+			 <cosponsor name-id="Y000062">Mr. Yarmuth</cosponsor>, and
+			 <cosponsor name-id="B001247">Ms. Ginny Brown-Waite of Florida</cosponsor>)
+			 introduced the following bill; which was referred to the
+			 <committee-name committee-id="HWM00">Committee on Ways and
+			 Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to modify the
+		  first-time homebuyers credit in the case of members of the Armed Forces and
+		  certain other Federal employees, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HE1397D243883412B96BE65A564EA65A" style="OLC">
+		<section id="H8440A6BE05F440FFB1201E5C2030394D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Service Members Home Ownership Tax Act
+			 of 2009</short-title></quote>.</text>
+		</section><section id="H747AC7F38A74424CBE8B3B309DC3BA3"><enum>2.</enum><header>Waiver of
+			 recapture of first-time homebuyer credit for individuals on qualified official
+			 extended duty</header>
+			<subsection id="H9963E2C88D22438A86CD38F302AF5227"><enum>(a)</enum><header>In
+			 general</header><text>Paragraph (4) of section 36(f) of the Internal Revenue
+			 Code of 1986 is amended by adding at the end the following new
+			 subparagraph:</text>
+				<quoted-block id="H2A44900D52F0445AB200F4869D2400E9" style="OLC">
+					<subparagraph id="HBBD9716949E14C3482911EB4ECE8175D"><enum>(E)</enum><header>Special rule for
+				members of the Armed Forces, etc</header>
+						<clause id="H3526178FC205473094C4C0C25E748400"><enum>(i)</enum><header>In
+				general</header><text>In the case of the disposition of a principal residence
+				by an individual (or a cessation referred to in paragraph (2)) after December
+				31, 2008, in connection with Government orders received by such individual, or
+				such individual’s spouse, for qualified official extended duty service—</text>
+							<subclause id="HD9CCA19A31A642548C94FB4EDBAC6FD4"><enum>(I)</enum><text>paragraph (2) and
+				subsection (d)(2) shall not apply to such disposition (or cessation),
+				and</text>
+							</subclause><subclause id="HECD250525C854E7FB76264B810D7E88C"><enum>(II)</enum><text>if such residence
+				was acquired before January 1, 2009, paragraph (1) shall not apply to the
+				taxable year in which such disposition (or cessation) occurs or any subsequent
+				taxable year.</text>
+							</subclause></clause><clause id="HF65B6375DF7845A3BD16C6F711F26E00"><enum>(ii)</enum><header>Qualified
+				official extended duty service</header><text>For purposes of this section, the
+				term <term>qualified official extended duty service</term> means service on
+				qualified official extended duty as—</text>
+							<subclause id="H18ABC4523F784018905624C99B38DE8F"><enum>(I)</enum><text>a member of the
+				uniformed services,</text>
+							</subclause><subclause id="HC0ECD550856444E5AB250F1675BF7BF1"><enum>(II)</enum><text>a member of the
+				Foreign Service of the United States, or</text>
+							</subclause><subclause id="H11CFEFE3E366408ABA00C21C4912A411"><enum>(III)</enum><text>as an employee
+				of the intelligence community.</text>
+							</subclause></clause><clause id="H320837C130984AB4B6D649B65347B010"><enum>(iii)</enum><header>Definitions</header><text>Any
+				term used in this subparagraph which is also used in paragraph (9) of section
+				121(d) shall have the same meaning as when used in such
+				paragraph.</text>
+						</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" id="H897AD0AFF1934FA5BCABF321F155C1DD"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendment made by this section shall apply to
+			 dispositions and cessations after December 31, 2008.</text>
+			</subsection></section><section id="H5908F14C8BBE40A989C5AAEDDC00EA9E"><enum>3.</enum><header>Extension of
+			 first-time homebuyer credit for individuals on qualified official extended duty
+			 outside the United States</header>
+			<subsection id="H302181D8A8F34BDDAD735CBFF4CFE49E"><enum>(a)</enum><header>In
+			 general</header><text>Subsection (h) of section 36 of the Internal Revenue Code
+			 of 1986 is amended—</text>
+				<paragraph id="HC446D55859ED4AB392F8C469A03461CA"><enum>(1)</enum><text>by striking
+			 <quote>This section</quote> and inserting the following:</text>
+					<quoted-block id="HF9C45EA043534054A864ABA4961BFBD9" style="OLC">
+						<paragraph id="HB439490BB41749E6943BAE117BBB430"><enum>(1)</enum><header>In
+				general</header><text>This section</text>
+						</paragraph><after-quoted-block>,
+				and</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="HC9BF0B07EDA446559F880200EE99F800"><enum>(2)</enum><text>by adding at the
+			 end the following:</text>
+					<quoted-block id="H9191947861914B5696765FE7DF0C3C" style="OLC">
+						<paragraph id="H649FBC56C46C44EA9BAB81DE13FAABBA"><enum>(2)</enum><header>Special rules
+				for individuals on qualified official extended duty outside the United
+				States</header><text display-inline="yes-display-inline">In the case of any
+				individual who serves on qualified official extended duty service outside the
+				United States for at least 90 days in calendar year 2009 and, if married, such
+				individual’s spouse—</text>
+							<subparagraph id="H696B9B0728804F6885F6C7502E7DCC4F"><enum>(A)</enum><text>paragraph (1)
+				shall be applied by substituting <quote>December 1, 2010</quote> for
+				<quote>December 1, 2009</quote>,</text>
+							</subparagraph><subparagraph id="H188322584FAB48A9BF3E14B15B8F37B1"><enum>(B)</enum><text>subsection
+				(f)(4)(D) shall be applied by substituting <quote>December 1, 2010</quote> for
+				<quote>December 1, 2009</quote>, and</text>
+							</subparagraph><subparagraph id="H0A0CC6426D934BA8B0E6CC7755C92F42"><enum>(C)</enum><text>in lieu of
+				subsection (g), in the case of a purchase of a principal residence after
+				December 31, 2009, and before July 1, 2010, the taxpayer may elect to treat
+				such purchase as made on December 31, 2009, for purposes of this section (other
+				than subsections (c) and
+				(f)(4)(D)).</text>
+							</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="HEEE8C1BD519D443F92F6F881C004436F"><enum>(b)</enum><header>Coordination
+			 with first-Time homebuyer credit for District of
+			 Columbia</header><text>Paragraph (4) of section 1400C(e) of such Code is
+			 amended by inserting <quote>(December 1, 2010, in the case of a purchase
+			 subject to section 36(h)(2))</quote> after <quote>December 1,
+			 2009</quote>.</text>
+			</subsection><subsection id="H5E48C50B538D491300721237CF416070"><enum>(c)</enum><header>Effective
+			 date</header><text>The amendments made by this section shall apply to
+			 residences purchased after November 30, 2009.</text>
+			</subsection></section><section id="H3B6C5AFA20C74E8484DBF533A470819B" section-type="subsequent-section"><enum>4.</enum><header>Exclusion from gross
+			 income of qualified military base realignment and closure fringe</header>
+			<subsection id="H488F5C3F654F44558D261242968D145D"><enum>(a)</enum><header>In
+			 general</header><text>Subsection (n) of section 132 of the Internal Revenue
+			 Code of 1986 is amended—</text>
+				<paragraph id="H21CBDF6F55764600BD20073B7FFE5D8D"><enum>(1)</enum><text>in subparagraph
+			 (1) by striking <quote>this subsection) to offset the adverse effects on
+			 housing values as a result of a military base realignment or closure</quote>
+			 and inserting <quote>the American Recovery and Reinvestment Tax Act of
+			 2009)</quote>, and</text>
+				</paragraph><paragraph id="HF5DFE68C383242380071DC7BE9778100"><enum>(2)</enum><text>in subparagraph
+			 (2) by striking <quote>clause (1) of</quote>.</text>
+				</paragraph></subsection><subsection id="HEEE96EE8FB2B40398876DC15005D3DEF"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendments made by this act shall apply to payments made
+			 after February 17, 2009.</text>
+			</subsection></section><section commented="no" id="H8BDF7610A40643FEAD2362D088F2C3DB" section-type="subsequent-section"><enum>5.</enum><header>Increase in penalty
+			 for failure to file a partnership or S corporation return</header>
+			<subsection id="H8AC90EF482CD4300935A7DCDED341FB8"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Sections 6698(b)(1)
+			 and 6699(b)(1) of the Internal Revenue Code of 1986 are each amended by
+			 striking <quote>$89</quote> and inserting <quote>$110</quote>.</text>
+			</subsection><subsection id="H71D3C2A039B64919908ADE6A80795466"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendments made by this section shall apply to returns
+			 for taxable years beginning after December 31, 2009.</text>
+			</subsection></section><section id="H0538059CEFB24DBCA52AEEC51AACB1EE"><enum>6.</enum><header>Time for payment
+			 of corporate estimated taxes</header><text display-inline="no-display-inline">The percentage under paragraph (1) of
+			 section 202(b) of the Corporate Estimated Tax Shift Act of 2009 in effect on
+			 the date of the enactment of this Act is increased by 0.5 percentage
+			 points.</text>
+		</section></legis-body>
+</bill>
